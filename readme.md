@@ -139,7 +139,7 @@ When you do decide to work with your favorite framework, Web Components can stil
 - [How to integrate Web Components using Lit in Angular - This Dot Labs](https://www.thisdot.co/blog/how-to-integrate-web-components-using-lit-in-angular "How to integrate Web Components using Lit in Angular - This Dot Labs")
 - [Master Web Component Forms Integration - with Lit and Angular](https://www.thinktecture.com/en/web-components/web-component-forms-integration-with-lit-and-angular/ "Master Web Component Forms Integration - with Lit and Angular")
 - <https://stackoverflow.com/questions/56837900/how-to-import-angular-web-component-in-another-angular-app>
-- Using Web Components in Angular[](https://www.youtube.com/watch?v=2Wjp_FsWOXU)
+- [Using Web Components in Angular](https://www.youtube.com/watch?v=2Wjp_FsWOXU)
  
 ## Vue
 
