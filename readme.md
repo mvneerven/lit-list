@@ -106,6 +106,7 @@ State Management is one of the strongest reasons people keep referring to framew
 - [MobX](https://mobx.js.org/ "MobX") - *Simple, scalable state management.*
 - [The Mediator Pattern in JavaScript — JSManifest](https://jsmanifest.com/the-mediator-pattern-in-javascript/)
 - [Zustand](https://docs.pmnd.rs/zustand "Zustand Documentation")
+- [Web Components Context Protocol implementation](https://lit.dev/docs/data/context/)
  
 ## Routing
 
