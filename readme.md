@@ -55,6 +55,7 @@ See [Lit for React Developers | Google Codelabs](https://codelabs.developers.goo
 - [The Browser is your Framework: Building a PWA with only Web Components and Lit](https://javascript.plainenglish.io/the-browser-is-your-framework-building-a-pwa-with-only-web-components-and-lit-c91f0f86900d "The Browser is your Framework: Building a PWA with only Web Components and Lit")\
   *My article on creating PWAs with only Web Components and Lit, and the* [*NPM initializer*](https://www.npmjs.com/package/create-lit-pwa "create-lit-pwa") [*Artem Maiorov*](https://www.linkedin.com/in/artem-maiorov-792a7b3a/) *created with me.\
   See also* [*the list of LinkedIn Posts*](https://www.linkedin.com/feed/hashtag/es6pwa/) *around this approach.*
+- [Some things to know when developing with Lit](https://open-wc.org/blog/some-things-to-know-when-developing-with-lit/)
   
 # Component Libraries & Design Systems
 
