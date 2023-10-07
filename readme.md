@@ -22,6 +22,7 @@ Rob Eisenberg is a respected voice in the Web Components community. He has worke
 1. [About Web Components](https://eisenbergeffect.medium.com/about-web-components-7b2a3ed67a78 "About Web Components")
 2. [Debunking Web Component Myths and Misconceptions](https://eisenbergeffect.medium.com/debunking-web-component-myths-and-misconceptions-ea9bb13daf61 "Debunking Web Component Myths and Misconceptions")
 4. [2023 State of Web Components](https://eisenbergeffect.medium.com/2023-state-of-web-components-c8feb21d4f16 "2023 State of Web Components")
+5. [Web Component Engineering Course](https://www.youtube.com/watch?v=Y-Q1WTvPt_8)
   
 # Relevant Web Standards
 
