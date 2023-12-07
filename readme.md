@@ -12,6 +12,7 @@ Basically, Web Components consist of [three technologies](https://exyte.com/blog
   *Well-known and experience-tested recommendations for their web component projects*
 - Project Scaffolding [Development: Generator: Open Web Components](https://open-wc.org/docs/development/generator/ "Development: Generator: Open Web Components")
 - What are Web Components (video)[](https://www.youtube.com/watch?v=83W63gTVlSk)
+- Web Components At Work (Thomas Wilburn)[](https://thomaswilburn.github.io/wc-book/)
   
 # In-Depth Web Components
 
