@@ -110,6 +110,8 @@ State Management is one of the strongest reasons people keep referring to framew
 - [The Mediator Pattern in JavaScript — JSManifest](https://jsmanifest.com/the-mediator-pattern-in-javascript/)
 - [Zustand](https://docs.pmnd.rs/zustand "Zustand Documentation")
 - [Web Components Context Protocol implementation](https://lit.dev/docs/data/context/)
+- [Context Protocol - Web Components Community Group proposal](https://github.com/webcomponents-cg/community-protocols/blob/main/proposals/context.md)
+- [Lit Context](https://lit.dev/docs/data/context/)
  
 ## Routing
 
